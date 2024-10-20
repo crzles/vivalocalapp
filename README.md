@@ -13,3 +13,5 @@ https://docs.google.com/presentation/d/1qabpakxE1yg9tVLrxHsU8czRSTJypmui_7JbbfGU
 
 Link to our project design on Figma:
 https://www.figma.com/design/ScTM0IGqOg4PvqUfAJF9Rj/PRACTICE?node-id=0-1&m=dev
+
+#FronteraHacks2024
